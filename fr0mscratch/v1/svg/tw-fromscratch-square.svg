@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-5653.42,-9328.47)">
+        <g id="final-logo-square" serif:id="final logo square" transform="matrix(1.16038,0,0,0.884756,-1924.73,1130.09)">
+            <rect x="6530.77" y="9266.26" width="689.431" height="904.204" style="fill:none;"/>
+            <g transform="matrix(-0.922292,-1.48134e-16,1.13026e-16,-1.21044,10003.5,17038.2)">
+                <path d="M3489.02,6296.91C3574.21,6296.76 3588.97,6235.17 3574.86,6195.92C3554.16,6138.31 3456,5863.96 3456,5863.96L3256.11,6296.91L3489.02,6296.91ZM3384.35,5791.99C3422.64,5791.86 3436.95,5830.3 3436.95,5830.3L3195.53,6197.18C3195.53,6197.18 3299.63,5927.27 3324.46,5862.59C3337.22,5829.56 3352.56,5792.1 3384.35,5791.99Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>

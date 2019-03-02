@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-9475.17,-10325.5)">
+        <g id="final-logo-circle-black" serif:id="final logo circle black" transform="matrix(1.10155,0,0,0.878051,1569.61,4583.08)">
+            <rect x="7176.79" y="6539.97" width="726.252" height="911.109" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="7176.79" y="6539.97" width="726.252" height="911.109"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.15633,0,0,1.4446,-3754.28,-8368.05)">
+                    <rect x="9453.26" y="10319.8" width="628.067" height="630.699"/>
+                </g>
+                <g transform="matrix(-0.955526,-1.46804e-16,1.17074e-16,-1.19931,10778,14273)">
+                    <path d="M3489.02,6295.04C3572.32,6294.48 3586.47,6233.49 3572.99,6195.92C3552.33,6138.3 3457.9,5872.48 3457.9,5872.48L3257.05,6295.04L3489.02,6295.04ZM3384.35,5791.96C3422.64,5791.83 3436.01,5830.3 3436.01,5830.3L3196.46,6197.18C3196.46,6197.18 3300.58,5928.21 3325.41,5863.52C3338.16,5830.49 3352.56,5792.06 3384.35,5791.96Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
